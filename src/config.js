@@ -1,7 +1,7 @@
 const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
-
+fs.writeFileSync($,basePath,/build/json/_updatebaseuri.json,JSON.stringify(data, null, 2));
 const network = NETWORK.sol;
 
 // General metadata for Ethereum

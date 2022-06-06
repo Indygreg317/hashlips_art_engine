@@ -7,13 +7,15 @@ const network = NETWORK.sol;
 // General metadata for Ethereum
 const namePrefix = "Sol Scriptures";
 const description = "1400 Christian MeMes Speading Love!";
-const baseUri = "ipfs://update";
+const baseUri = "ipfs://QmT5ydMSqZEq5WtgWi9KMbVGQBcbCqcBBHTjgbKnCF4JhV";
+
 
 
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.mindfull-advisors.com",
+  
   creators: [
     {
       address: "Fbju8mzZLNBsctxrPoXnHR4EWhpEPxhLnNHnk4Hgv2og",
